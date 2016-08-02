@@ -40,12 +40,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-bootstrap.git"
+    "url": "git+ssh://git@github.com/donkeycode/ng2-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ng2-bootstrap/issues"
+    "url": "https://github.com/donkeycode/ng2-bootstrap/issues"
   },
-  "homepage": "https://github.com/valor-software/ng2-bootstrap#readme",
+  "homepage": "https://github.com/donkeycode/ng2-bootstrap#readme",
   "dependencies": {
     "moment": "2.13.0"
   },
