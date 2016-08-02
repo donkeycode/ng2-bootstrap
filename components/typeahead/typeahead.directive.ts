@@ -89,6 +89,10 @@ export class TypeaheadDirective implements OnInit {
 
     // Ensure that we have typed enough characters before triggering the
     // matchers
+    if (!this.cd.model) {
+      return;
+    }
+
     if (this.cd.model.toString().length >= this.typeaheadMinLength) {
 
       this.typeaheadLoading.emit(true);
