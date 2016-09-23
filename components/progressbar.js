@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var bar_component_1 = require('./progressbar/bar.component');
 exports.BarComponent = bar_component_1.BarComponent;
 var progress_directive_1 = require('./progressbar/progress.directive');

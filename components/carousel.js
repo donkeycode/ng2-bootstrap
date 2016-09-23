@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var carousel_component_1 = require('./carousel/carousel.component');
 exports.CarouselComponent = carousel_component_1.CarouselComponent;
 var carousel_module_1 = require('./carousel/carousel.module');

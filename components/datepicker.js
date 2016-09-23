@@ -1,5 +1,4 @@
-'use strict';
-
+"use strict";
 /*
  todo: general:
  1. Popup

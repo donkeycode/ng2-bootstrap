@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var tab_heading_directive_1 = require('./tabs/tab-heading.directive');
 exports.TabHeadingDirective = tab_heading_directive_1.TabHeadingDirective;
 var tabset_component_1 = require('./tabs/tabset.component');

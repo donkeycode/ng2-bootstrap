@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 function __export(m) {
-  for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
 __export(require('./modal/modal-backdrop.component'));
 __export(require('./modal/modal-options.class'));

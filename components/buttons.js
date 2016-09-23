@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var button_checkbox_directive_1 = require('./buttons/button-checkbox.directive');
 exports.ButtonCheckboxDirective = button_checkbox_directive_1.ButtonCheckboxDirective;
 var button_radio_directive_1 = require('./buttons/button-radio.directive');

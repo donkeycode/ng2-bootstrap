@@ -6,8 +6,7 @@
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-'use strict';
-
+"use strict";
 /**
  * JS version of browser APIs. This library can only run in the browser.
  */

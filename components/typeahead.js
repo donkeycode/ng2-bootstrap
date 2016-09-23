@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var typeahead_container_component_1 = require('./typeahead/typeahead-container.component');
 exports.TypeaheadContainerComponent = typeahead_container_component_1.TypeaheadContainerComponent;
 var typeahead_options_class_1 = require('./typeahead/typeahead-options.class');

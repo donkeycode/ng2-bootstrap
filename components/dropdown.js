@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var dropdown_menu_directive_1 = require('./dropdown/dropdown-menu.directive');
 exports.DropdownMenuDirective = dropdown_menu_directive_1.DropdownMenuDirective;
 var dropdown_toggle_directive_1 = require('./dropdown/dropdown-toggle.directive');
